@@ -1,9 +1,12 @@
+
 # DepViz
 
 `package.json`의 의존성을 시각화하고 업데이트 리스크를 분석하는 웹 도구입니다.
 
 > 레거시 프로젝트에 투입될 때마다 수십 개의 패키지 버전을 일일이 확인하는 게 번거로웠습니다.
 > "한눈에 보여주는 도구가 있으면 어떨까?" 에서 시작했습니다.
+
+<img width="2518" height="1299" alt="의존성 그래프" src="https://github.com/user-attachments/assets/1be0d5b0-e338-420e-a32e-c2d21071bf3f" />
 
 ---
 
@@ -14,6 +17,10 @@
 - **업데이트 리포트** — 우선순위별 업데이트 목록과 패키지 매니저별 설치 명령어 자동 생성
 - **다양한 입력 방식** — 파일 업로드 / npm 패키지 URL / 직접 입력 지원
 - **SVG 내보내기** — 의존성 그래프를 SVG 파일로 저장
+
+<img width="2518" height="1259" alt="리스크 대시보드" src="https://github.com/user-attachments/assets/7c007e33-bc94-48a7-b716-b115d7b715ef" />
+
+<img width="2518" height="1988" alt="업데이트 리포트" src="https://github.com/user-attachments/assets/6dc4ae71-05eb-4594-be28-0b01b981f089" />
 
 ---
 
